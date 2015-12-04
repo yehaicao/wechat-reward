@@ -32,6 +32,7 @@
     position: absolute;
     width: 180px;
     z-index: 999;
+    text-align: center;
 }
 .gave a {
     background: #f06363 none repeat scroll 0 0;
