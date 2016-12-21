@@ -1,14 +1,14 @@
-<?php
+﻿<?php
 /**
  * @package Wechat Reward(微信打赏)
- * @version 1.6
+ * @version 1.7
  */
 /*
 Plugin Name: 微信打赏
 Plugin URI: https://github.com/wordpress-plugins-tanteng/wechat-reward
 Description: 在文章末尾添加微信打赏功能，如果读者觉得这篇文章对他有用，可以用微信扫一扫打赏赞助。
 Author: tán téng
-Version: 1.6
+Version: 1.7
 Author URI: http://www.tantengvip.com
 */
 
@@ -55,6 +55,10 @@ class WechatReward
                 <img src="[wechat-qrpic]" alt="微信扫一扫支付">
                 <div><img src="[wechat-ico]" alt="微信logo" class="ico-wechat">微信扫一扫，打赏作者吧～</i></div>
             </div>
+            
+            <br><strong>如果文章对您有帮助，欢迎点击上方按钮给作者一点鼓励。</strong>
+            <br>
+
         </div>
 PAY;
         $pay = strtr(

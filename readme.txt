@@ -1,10 +1,10 @@
 ﻿=== 微信打赏（Wechat Reward） ===
 Contributors: tanteng
-Donate link: http://www.tantengvip.com
+Donate link: http://www.tantengvip.com http://www.wordpressleaf.com
 Tags: donate, wechat, post
 Requires at least: 3.0.1
 Tested up to: 4.3.1
-Stable tag: 1.6
+Stable tag: 1.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,12 @@ Language: Chinese
 
 
 == Changelog ==
+= 1.8 =
+* 在赏字下面增加一行说明文字。--http://www.wordpressleaf.com
+
+= 1.7 =
+* 修复用户提出的主题样式兼容问题
+
 = 1.6 =
 * 稳定版
 
