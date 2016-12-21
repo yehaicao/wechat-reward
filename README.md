@@ -6,4 +6,14 @@
 插件页面：http://www.tantengvip.com/2015/11/wechat-rewrd-wordpress-plugin/
 
 
-www.wordpressleaf.com 在赏字下面增加一行说明文字。
+www.wordpressleaf.com 将此分支更新至1.9
+
+更新内容：
+
+1.9
+
+修正在部分启用了内容首行缩进的主题中样式错乱的问题。
+
+1.8
+
+在赏字下面增加一行说明文字：如果文章对您有帮助，欢迎点击上方按钮给作者一点鼓励。
